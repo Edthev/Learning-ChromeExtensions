@@ -10,7 +10,8 @@
    "omnibox": {
       "keyword": "api"
    },
-   "permissions": ["storage"],
+   "permissions": ["storage", "alarms"],
+   "host_permissions": ["https://extension-tips.glitch.me/*"],
    "background": {
       "service_worker": "service-worker.js",
       "type": "module"
