@@ -6,6 +6,10 @@
       "16": "icons/icon-16.png",
       "128": "icons/icon-128.png"
    },
+   "minimum_chrome_version": "102",
+   "omnibox": {
+      "keyword": "api"
+   },
    "permissions": ["storage"],
    "background": {
       "service_worker": "service-worker.js",
