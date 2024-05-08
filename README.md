@@ -1,2 +1,3 @@
 # Learning Chrome Extensions
-This is a repo of my journey learning how to build a chrome extension following the chrome and youtube tutorials while still putting my own spin on things
+
+This is my rep documenting the process of mastering Chrome extension development. I've been following Chrome's official documentation and watching YouTube tutorials, infusing my own creativity and style into each project along the way.
