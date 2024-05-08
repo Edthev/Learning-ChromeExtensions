@@ -1,0 +1,10 @@
+{
+   "manifest_version": 3,
+   "version": "0.0.0",
+   "name": "my vite extension",
+   "action": {
+      "default_popup": "index.html"
+   },
+   "permissions": ["scripting"],
+   "host_permissions": ["http://*/*", "https://*/*"]
+}
