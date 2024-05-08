@@ -1,3 +1,4 @@
 .history
 .vscode
 vite/vite-chrome-extension/node_modules
+vite/vite-chrome-extension/.DS_Store
